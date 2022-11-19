@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  font-size:50px;
+  border: 5px solid black;
+  width: 50%;
+  margin-top: 5%;
+  margin-left: 25%;
+  background: linear-gradient(70deg, skyblue, pink);
+  box-shadow: 24px 18px 88px 28px rgba(0,0,0,0.75);
+  -moz-box-shadow: 24px 18px 88px 28px rgba(0,0,0,0.75);
+  box-shadow: 24px 18px 88px 28px rgba(0,0,0,0.75);
+  }
+  h1{
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: whitesmoke;
+    margin: 50px auto;
+  }
+  button{
+  font-size:50px;
+  border-radius: 20px;
+  /*border: none;*/
+  margin: 4%;
+  padding: 2%;
+  /*background-color:rgb(208, 255, 0);*/
+  opacity:70%;
+  }
+  .Incre{
+    border: 1px solid black;
+    background: green;
+  }
+  .decre{
+    background: red;
+    border: 1px solid black;
+  }
+  .reset{
+    background: blue;
+    border: 1px solid black;
+  }
+  button:hover {
+  font-size:50px;
+  opacity: 100%;
+  box-shadow: 100px black;
+  }
